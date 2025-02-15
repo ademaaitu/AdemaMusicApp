@@ -51,7 +51,7 @@
 
 ### 📥 Клонирование репозитория:
 ```sh
-git clone https://github.com/your-repo/music-app.git
+git clone https://github.com/ademaaitu/AdemaMusicApp.git
 cd music-app
 ```
 
